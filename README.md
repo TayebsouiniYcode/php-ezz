@@ -1,1 +1,1 @@
-This is a readme
+Models scanner and generater database

@@ -1,0 +1,16 @@
+{
+    "name": "tayeb/php-ezz",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/",
+            "Core\\": "core/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tayeb SOUINI",
+            "email": "Tayebsouiniycode@gmail.com"
+        }
+    ],
+    "require": {}
+}
